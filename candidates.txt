@@ -80,15 +80,10 @@ staggerd
 
 split
 
-/home/robert/qmk_firmware_kleemann/keyboards/horizon
-
-This one is 2u wider but has a dedicated space in the middle for the
-controller. This allows the controller to be soldered directly onto
-the PCB. The profile looks very flat but some of that is the switches
-and caps. I could put a giant 2u by 2u button in the middle. Lots of
-build discussion.
-
 /home/robert/qmk_firmware_kleemann/keyboards/jd45
+
+
+
 /home/robert/qmk_firmware_kleemann/keyboards/jnao
 /home/robert/qmk_firmware_kleemann/keyboards/kagamidget
 /home/robert/qmk_firmware_kleemann/keyboards/latin47ble
@@ -296,4 +291,12 @@ I can't find the hardware anywhere. I think it was a one time group buy.
 
 Two, 2u spacebars. It's kind of interesting. For hardware, guy says to
 ping him on Reddit.
+
+/home/robert/qmk_firmware_kleemann/keyboards/horizon
+
+This one is 2u wider but has a dedicated space in the middle for the
+controller. This allows the controller to be soldered directly onto
+the PCB. The profile looks very flat but some of that is the switches
+and caps. I could put a giant 2u by 2u button in the middle. Lots of
+build discussion.
 
