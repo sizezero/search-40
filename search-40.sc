@@ -29,14 +29,17 @@ def keyboardDirIsFortyPercent(jsonFile: os.Path): Boolean = {
   }
 }
 
-// all keyboard (dir, infoFile) pairs that contain 45 to 55 keys
+// recursively get all files and dirs under a path
+// this is the only use of ammonite.ops which makes things more unixy
+val filesAndDirs = ls.rec! os.home / "qmk_firmware_kleemann" / "keyboards"
+
+// prune list to dirs that may have 40% keyboards
 val good =
-(ls.rec! os.home / "qmk_firmware_kleemann" / "keyboards")
+filesAndDirs
 .filter{ _.isDir }
 .map{ d => (d, d / "info.json") }
 .filter{ case (d,f) => f.toIO.isFile }
 .flatMap {
-  // see if the info file in the keyboard dir is a candidate for a 40% keyboard
   case (d,f) =>
     if (keyboardDirIsFortyPercent(f)) List(d)
     else Nil
