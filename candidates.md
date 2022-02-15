@@ -79,7 +79,7 @@ split
 
 /home/robert/qmk_firmware_kleemann/keyboards/friedrich
 
-staggerd
+staggered
 
 /home/robert/qmk_firmware_kleemann/keyboards/gergo
 
@@ -87,18 +87,52 @@ split
 
 /home/robert/qmk_firmware_kleemann/keyboards/jd45
 
+staggered
 
+note jd40 didn't come up in the search because it had to few keys
 
-/home/robert/qmk_firmware_kleemann/keyboards/jnao
 /home/robert/qmk_firmware_kleemann/keyboards/kagamidget
+
+I don't quite understand the look of this thing
+
+https://github.com/yynmt/KagaMidget
+
 /home/robert/qmk_firmware_kleemann/keyboards/latin47ble
+
+only 47 keys. not sure the pcb is still available
+
 /home/robert/qmk_firmware_kleemann/keyboards/lets_split
+
+split
+
 /home/robert/qmk_firmware_kleemann/keyboards/meira
+
+low profile 40%
+
+kailh choc low profile
+
+has led back lights which i don't need
+
 /home/robert/qmk_firmware_kleemann/keyboards/meson
+
+split
+
 /home/robert/qmk_firmware_kleemann/keyboards/minim
+
+staggered
+
 /home/robert/qmk_firmware_kleemann/keyboards/mitosis
+
+split
+
 /home/robert/qmk_firmware_kleemann/keyboards/mnk50
+
+doesn't look available
+
 /home/robert/qmk_firmware_kleemann/keyboards/model_v
+
+staggered
+
 /home/robert/qmk_firmware_kleemann/keyboards/mt40
 /home/robert/qmk_firmware_kleemann/keyboards/nack
 /home/robert/qmk_firmware_kleemann/keyboards/naked48
@@ -304,4 +338,10 @@ controller. This allows the controller to be soldered directly onto
 the PCB. The profile looks very flat but some of that is the switches
 and caps. I could put a giant 2u by 2u button in the middle. Lots of
 build discussion.
+
+/home/robert/qmk_firmware_kleemann/keyboards/jnao
+
+https://keeb.io/products/jnao-5x12-and-4x12-ortholinear-pcb
+
+stange optional fifth row. doesn't look exceptional bit it's a candidate
 
