@@ -1,4 +1,9 @@
-=== rejected
+
+# Notes on 40% keyboards
+
+I'm looking for 48-ish key ortholinears.
+
+## Rejected
 
 /home/robert/qmk_firmware_kleemann/keyboards/45_ats
 
@@ -275,7 +280,7 @@ split
 /home/robert/qmk_firmware_kleemann/keyboards/spaceman/pancake/rev2
 /home/robert/qmk_firmware_kleemann/keyboards/ymdk/ymd40/v2
 
-=== accepted
+## Accepted
 
 /home/robert/qmk_firmware_kleemann/keyboards/contra
 
