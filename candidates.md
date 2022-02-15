@@ -134,64 +134,217 @@ doesn't look available
 staggered
 
 /home/robert/qmk_firmware_kleemann/keyboards/mt40
+
+It's an ortho but I can't find info on the PCB anywhere.
+
 /home/robert/qmk_firmware_kleemann/keyboards/nack
-/home/robert/qmk_firmware_kleemann/keyboards/naked48
+
+13x4 ortho with lots of lights and stuff. Doesn't look like a candidate.
+
 /home/robert/qmk_firmware_kleemann/keyboards/nightmare
-/home/robert/qmk_firmware_kleemann/keyboards/niu_mini
-/home/robert/qmk_firmware_kleemann/keyboards/planck
+
+staggered
+
 /home/robert/qmk_firmware_kleemann/keyboards/quark
+
+planck but with large spacebars. hardware does not seem to be available
+
 /home/robert/qmk_firmware_kleemann/keyboards/qwertyydox
+
+https://www.checkerboards.xyz/quark_pcb
+
 /home/robert/qmk_firmware_kleemann/keyboards/rect44
+
+staggered
+
 /home/robert/qmk_firmware_kleemann/keyboards/reviung53
+
+staggered
+
 /home/robert/qmk_firmware_kleemann/keyboards/ristretto
+
+split
+
 /home/robert/qmk_firmware_kleemann/keyboards/shambles
+
+staggered
+
 /home/robert/qmk_firmware_kleemann/keyboards/shapeshifter4060
+
+There's a github page for the pcb but nothing else.
+
+https://github.com/kitsunekeyboards/shapeshifter4060
+
+split
+
 /home/robert/qmk_firmware_kleemann/keyboards/smallice
+
+split
+
 /home/robert/qmk_firmware_kleemann/keyboards/spacetime
-/home/robert/qmk_firmware_kleemann/keyboards/splitish
+
+split
+
 /home/robert/qmk_firmware_kleemann/keyboards/telophase
+
+split
+
 /home/robert/qmk_firmware_kleemann/keyboards/terrazzo
+
+staggered but I really like the visible electronics
+
 /home/robert/qmk_firmware_kleemann/keyboards/tetris
+
+very nice low profile keyboard but no hardware info
+
 /home/robert/qmk_firmware_kleemann/keyboards/tg4x
+
+staggered
+
 /home/robert/qmk_firmware_kleemann/keyboards/tmo50
+
+staggere but beautiful
+
 /home/robert/qmk_firmware_kleemann/keyboards/tw40
+
+staggered
+
 /home/robert/qmk_firmware_kleemann/keyboards/uranuma
+
+split
+
 /home/robert/qmk_firmware_kleemann/keyboards/ut472
+
+in between ortho and staggered
+
 /home/robert/qmk_firmware_kleemann/keyboards/v4n4g0rth0n
+
+just strange
+
 /home/robert/qmk_firmware_kleemann/keyboards/vitamins_included
+
+split
+
 /home/robert/qmk_firmware_kleemann/keyboards/xenon
+
+split
+
 /home/robert/qmk_firmware_kleemann/keyboards/zinc
+
+split
+
 /home/robert/qmk_firmware_kleemann/keyboards/zlant
+
+staggered
+
 /home/robert/qmk_firmware_kleemann/keyboards/40percentclub/25
+
+split
+
 /home/robert/qmk_firmware_kleemann/keyboards/40percentclub/4x4
+
+four modules bound together
+
 /home/robert/qmk_firmware_kleemann/keyboards/40percentclub/5x5
+
+too big
+
 /home/robert/qmk_firmware_kleemann/keyboards/40percentclub/nori
+
+normal board using a matrix. i don't know why i wouldn't want a uniform pcb
+
 /home/robert/qmk_firmware_kleemann/keyboards/40percentclub/ut47
+
+staggered
+
 /home/robert/qmk_firmware_kleemann/keyboards/acheron/shark
+
+pretty standard 40%
+
+hardware doesn't seem to be available
+
 /home/robert/qmk_firmware_kleemann/keyboards/ai03/orbit_x
+
+split
+
 /home/robert/qmk_firmware_kleemann/keyboards/akb/eb46
+
+no hardware
+
 /home/robert/qmk_firmware_kleemann/keyboards/bat43/rev1
 /home/robert/qmk_firmware_kleemann/keyboards/bat43/rev2
+
+split but super cool
+
 /home/robert/qmk_firmware_kleemann/keyboards/boardsource/4x12
+
+split but awesome
+
 /home/robert/qmk_firmware_kleemann/keyboards/boardsource/technik_o
+
+clean low profile but adds lighting and hotswap which I don't need
+
+https://boardsource.xyz/store/5ffb9b01edd0447f8023fdb2
+
 /home/robert/qmk_firmware_kleemann/keyboards/cannonkeys/adelie
+
+staggered
+
 /home/robert/qmk_firmware_kleemann/keyboards/cannonkeys/ortho48
+
+not available
+
+https://cannonkeys.com/products/ortho48
+
 /home/robert/qmk_firmware_kleemann/keyboards/cannonkeys/tmov2
+
+staggered
+
 /home/robert/qmk_firmware_kleemann/keyboards/checkerboards/phoenix45_ortho
-/home/robert/qmk_firmware_kleemann/keyboards/checkerboards/quark_lp
-/home/robert/qmk_firmware_kleemann/keyboards/dm9records/plaid
+
+lots of wide keys on the bottom
+
 /home/robert/qmk_firmware_kleemann/keyboards/dyz/dyz40
+
+hotswap, lights, probably not what I need
+
 /home/robert/qmk_firmware_kleemann/keyboards/dyz/selka40
+
+staggered
+
 /home/robert/qmk_firmware_kleemann/keyboards/emajesty/eiri
+
+
 /home/robert/qmk_firmware_kleemann/keyboards/evyd13/eon40
 /home/robert/qmk_firmware_kleemann/keyboards/evyd13/minitomic
 /home/robert/qmk_firmware_kleemann/keyboards/evyd13/pockettype
+
+dead sites. not sure if I can get the hardware
+
 /home/robert/qmk_firmware_kleemann/keyboards/eyeohdesigns/theboulevard
+
+staggered but slick
+
 /home/robert/qmk_firmware_kleemann/keyboards/flxlb/zplit
+
+split
+
 /home/robert/qmk_firmware_kleemann/keyboards/foostan/cornelius
+
+split
+
 /home/robert/qmk_firmware_kleemann/keyboards/gl516/a52gl
+
+split
+
 /home/robert/qmk_firmware_kleemann/keyboards/gl516/n51gl
+
+split
+
 /home/robert/qmk_firmware_kleemann/keyboards/handwired/aim65
+
+
+
 /home/robert/qmk_firmware_kleemann/keyboards/handwired/angel
 /home/robert/qmk_firmware_kleemann/keyboards/handwired/aranck
 /home/robert/qmk_firmware_kleemann/keyboards/handwired/atreus50
@@ -210,6 +363,9 @@ staggered
 /home/robert/qmk_firmware_kleemann/keyboards/handwired/terminus_mini
 /home/robert/qmk_firmware_kleemann/keyboards/handwired/traveller
 /home/robert/qmk_firmware_kleemann/keyboards/handwired/wulkan
+
+skipping all the hand wires but they are pretty to look at. d48 is gorgeous
+
 /home/robert/qmk_firmware_kleemann/keyboards/helix/pico
 /home/robert/qmk_firmware_kleemann/keyboards/helix/rev3_4rows
 /home/robert/qmk_firmware_kleemann/keyboards/kb_elmo/vertex
@@ -344,4 +500,30 @@ build discussion.
 https://keeb.io/products/jnao-5x12-and-4x12-ortholinear-pcb
 
 stange optional fifth row. doesn't look exceptional bit it's a candidate
+
+/home/robert/qmk_firmware_kleemann/keyboards/naked48
+
+Very interesting keyboard with an open middle. It may only be available in Japan.
+
+/home/robert/qmk_firmware_kleemann/keyboards/niu_mini
+
+Nice keep but out of stock.
+
+/home/robert/qmk_firmware_kleemann/keyboards/planck
+
+It's not much different than what I already have but it would probably give me a better selection of cases.
+
+/home/robert/qmk_firmware_kleemann/keyboards/splitish
+
+very cool with open middle for easily socketed controller
+
+/home/robert/qmk_firmware_kleemann/keyboards/checkerboards/quark_lp
+
+claims low profile compatible
+
+https://www.checkerboards.xyz/
+
+/home/robert/qmk_firmware_kleemann/keyboards/dm9records/plaid
+
+super cool
 
