@@ -24,7 +24,7 @@ def keyboardDirIsFortyPercent(jsonFile: os.Path): Boolean = {
     !fortyLayouts.isEmpty
   } catch {
     // if we can't even read the json, then the project is probably
-    // dead and we consider it "not a 40% layout
+    // dead and we consider it "not a 40% layout"
     case e: Exception => false
   }
 }

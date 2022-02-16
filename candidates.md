@@ -342,9 +342,6 @@ split
 split
 
 /home/robert/qmk_firmware_kleemann/keyboards/handwired/aim65
-
-
-
 /home/robert/qmk_firmware_kleemann/keyboards/handwired/angel
 /home/robert/qmk_firmware_kleemann/keyboards/handwired/aranck
 /home/robert/qmk_firmware_kleemann/keyboards/handwired/atreus50
@@ -368,43 +365,152 @@ skipping all the hand wires but they are pretty to look at. d48 is gorgeous
 
 /home/robert/qmk_firmware_kleemann/keyboards/helix/pico
 /home/robert/qmk_firmware_kleemann/keyboards/helix/rev3_4rows
+
+split
+
 /home/robert/qmk_firmware_kleemann/keyboards/kb_elmo/vertex
+
+staggered
+
 /home/robert/qmk_firmware_kleemann/keyboards/kbdfans/kbd4x
+
+Not sure when they sold this. No longer available.
+
 /home/robert/qmk_firmware_kleemann/keyboards/kbdfans/kbdmini
+
+No longer available.
+
 /home/robert/qmk_firmware_kleemann/keyboards/keebio/dsp40
+
+Still available. Looks clean with lots of layout options.
+
+https://keeb.io/products/dsp40-40-staggered-or-ortholinear-keyboard
+
 /home/robert/qmk_firmware_kleemann/keyboards/keebio/fourier
+
+split
+
 /home/robert/qmk_firmware_kleemann/keyboards/keebio/laplace
+
+staggered
+
 /home/robert/qmk_firmware_kleemann/keyboards/keebio/levinson
+
+split
+
 /home/robert/qmk_firmware_kleemann/keyboards/keebio/nyquist
+
+split
+
 /home/robert/qmk_firmware_kleemann/keyboards/keebio/rorschach
+
+split
+
 /home/robert/qmk_firmware_kleemann/keyboards/keebio/wavelet
+
+wavelet, low profile ortho. Not sure if it was ever made.
+
 /home/robert/qmk_firmware_kleemann/keyboards/keyprez/corgi
+
+Looks cool with controller exposed on the left. Unfortunately I can't
+find the hardware anywhere.
+
 /home/robert/qmk_firmware_kleemann/keyboards/keyprez/rhino
+
+Even better than the corgi but has a bunch of non 1u keys. Still no
+hardware.
+
 /home/robert/qmk_firmware_kleemann/keyboards/kprepublic/bm40hsrgb
+
+hotswap, leds, backlighting, lots of stuff I don't need. Good looking
+ortho otherwise.
+
 /home/robert/qmk_firmware_kleemann/keyboards/kprepublic/jj40
+
+underglow. lots of layouts. controller on pcb. It would be a candidate
+if I hadn't seen so many better ones.
+
 /home/robert/qmk_firmware_kleemann/keyboards/lazydesigners/bolt
+
+split
+
 /home/robert/qmk_firmware_kleemann/keyboards/lazydesigners/dimpleplus
+
+staggered
+
 /home/robert/qmk_firmware_kleemann/keyboards/lazydesigners/the40
 /home/robert/qmk_firmware_kleemann/keyboards/lazydesigners/the50
+
+Don't see much info on their home page.
+
 /home/robert/qmk_firmware_kleemann/keyboards/lets_split_eh/eh
+
+split
+
 /home/robert/qmk_firmware_kleemann/keyboards/mechanickeys/miniashen40
+
+staggered
+
 /home/robert/qmk_firmware_kleemann/keyboards/mechmini/v2
+
+Looks decent but website no longer exists.
+
 /home/robert/qmk_firmware_kleemann/keyboards/mechstudio/ud_40_ortho
+
+There's a web page but nothing to buy and no pictures of the PCB.
+
 /home/robert/qmk_firmware_kleemann/keyboards/mechwild/mercutio
-/home/robert/qmk_firmware_kleemann/keyboards/mlego/m48
+
+very cool like plaid but all examples are staggered
+
 /home/robert/qmk_firmware_kleemann/keyboards/montsinger/rewind
+
+hardware no longer available
+
 /home/robert/qmk_firmware_kleemann/keyboards/nightly_boards/adellein
+
+staggered
+
 /home/robert/qmk_firmware_kleemann/keyboards/nightly_boards/n40_o
+
+cute board but no hardware links
+
 /home/robert/qmk_firmware_kleemann/keyboards/nopunin10did/kastenwagen48
+
+staggered
+
 /home/robert/qmk_firmware_kleemann/keyboards/ocean/wang_ergo
+
+split
+
 /home/robert/qmk_firmware_kleemann/keyboards/ocean/wang_v2
+
+not sure what I'm looking at
+
 /home/robert/qmk_firmware_kleemann/keyboards/ocean/yuri
+
+kind of ergo. calls it a 40% alice.
+
 /home/robert/qmk_firmware_kleemann/keyboards/onekeyco/dango40
+
+staggered
+
 /home/robert/qmk_firmware_kleemann/keyboards/orthodox/rev1
 /home/robert/qmk_firmware_kleemann/keyboards/orthodox/rev3
 /home/robert/qmk_firmware_kleemann/keyboards/orthodox/rev3_teensy
+
+split
+
 /home/robert/qmk_firmware_kleemann/keyboards/peej/rosaline
+
+Inspired by plaid and romeo, a visible component look for 60% cases.
+
+staggered!
+
 /home/robert/qmk_firmware_kleemann/keyboards/pinky/3
+
+split
+
 /home/robert/qmk_firmware_kleemann/keyboards/planck/ez
 /home/robert/qmk_firmware_kleemann/keyboards/planck/light
 /home/robert/qmk_firmware_kleemann/keyboards/planck/rev1
@@ -526,4 +632,9 @@ https://www.checkerboards.xyz/
 /home/robert/qmk_firmware_kleemann/keyboards/dm9records/plaid
 
 super cool
+
+/home/robert/qmk_firmware_kleemann/keyboards/mlego/m48
+
+super cool like plaid. Even better it supports a separate controller
+card. It doesn't appear you can buy the PCB.
 
