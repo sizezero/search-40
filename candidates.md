@@ -521,60 +521,181 @@ split
 /home/robert/qmk_firmware_kleemann/keyboards/planck/rev6
 /home/robert/qmk_firmware_kleemann/keyboards/planck/rev6_drop
 /home/robert/qmk_firmware_kleemann/keyboards/planck/thk
+
+the latest pcbs are all hotswap which makes it a non-starter for me
+
 /home/robert/qmk_firmware_kleemann/keyboards/pohjolaworks/louhi
+
+standard 40% with an extra column on the right. no available hardware.
+
 /home/robert/qmk_firmware_kleemann/keyboards/primekb/prime_e
+
+split ergo
+
 /home/robert/qmk_firmware_kleemann/keyboards/program_yoink/ortho
+
+too big
+
 /home/robert/qmk_firmware_kleemann/keyboards/program_yoink/staggered
+
+staggered
+
 /home/robert/qmk_firmware_kleemann/keyboards/projectcain/vault45
+
+staggered
+
 /home/robert/qmk_firmware_kleemann/keyboards/ramonimbao/chevron
+
+another pretty open circuit but unfortunately staggered
+
 /home/robert/qmk_firmware_kleemann/keyboards/rart/rart45
+
+ergo. inspired by plaid
+
 /home/robert/qmk_firmware_kleemann/keyboards/rart/rartand
+
+looks really good like plaid. only available via group buy. staggered
+
 /home/robert/qmk_firmware_kleemann/keyboards/rart/rartlite
+
+staggered
+
 /home/robert/qmk_firmware_kleemann/keyboards/runner3680/3x8
 /home/robert/qmk_firmware_kleemann/keyboards/runner3680/4x6
+
+split
+
 /home/robert/qmk_firmware_kleemann/keyboards/satt/vision
+
+split staggered
+
 /home/robert/qmk_firmware_kleemann/keyboards/signum/3_0
+
+split ergo
+
 /home/robert/qmk_firmware_kleemann/keyboards/splitkb/kyria
+
+split
+
 /home/robert/qmk_firmware_kleemann/keyboards/the_royal/liminal
+
+staggered
+
 /home/robert/qmk_firmware_kleemann/keyboards/the_royal/schwann
+
+ortho. controller on board. missing corner keys.
+
 /home/robert/qmk_firmware_kleemann/keyboards/thevankeyboards/minivan
+
+dead?
+
 /home/robert/qmk_firmware_kleemann/keyboards/tokyokeyboard/alix40
+
+split ergo
+
 /home/robert/qmk_firmware_kleemann/keyboards/trashman/ketch
+
+staggered
+
 /home/robert/qmk_firmware_kleemann/keyboards/treadstone48/rev1
 /home/robert/qmk_firmware_kleemann/keyboards/treadstone48/rev2
+
+crazy symmetric staggered
+
 /home/robert/qmk_firmware_kleemann/keyboards/walletburner/cajal
+
+sold out. funny company name
+
 /home/robert/qmk_firmware_kleemann/keyboards/wilba_tech/rama_works_m50_a
 /home/robert/qmk_firmware_kleemann/keyboards/wilba_tech/rama_works_m50_ax
+
+Don't see the hardware on the site anymore.
+
 /home/robert/qmk_firmware_kleemann/keyboards/wings42/rev1_extkeys
 /home/robert/qmk_firmware_kleemann/keyboards/wings42/rev2
+
+ergo split
+
 /home/robert/qmk_firmware_kleemann/keyboards/work_louder/work_board
+
+gorgeous board with lots of knobs. I guess for video editing?
+
 /home/robert/qmk_firmware_kleemann/keyboards/wsk/gothic50
+
+ergo
+
 /home/robert/qmk_firmware_kleemann/keyboards/wsk/houndstooth
+
+split
+
 /home/robert/qmk_firmware_kleemann/keyboards/wsk/kodachi50
+
+staggered
+
 /home/robert/qmk_firmware_kleemann/keyboards/wsk/sl40
+
+staggered
+
 /home/robert/qmk_firmware_kleemann/keyboards/zinc/rev1
 /home/robert/qmk_firmware_kleemann/keyboards/zinc/reva
+
+staggered
+
 /home/robert/qmk_firmware_kleemann/keyboards/zvecr/split_blackpill
+
+split
+
 /home/robert/qmk_firmware_kleemann/keyboards/zvecr/zv48
+
+split
+
 /home/robert/qmk_firmware_kleemann/keyboards/acheron/elongate/beta
+
+staggered
+
 /home/robert/qmk_firmware_kleemann/keyboards/evyd13/atom47/rev2
 /home/robert/qmk_firmware_kleemann/keyboards/evyd13/atom47/rev3
 /home/robert/qmk_firmware_kleemann/keyboards/evyd13/atom47/rev4
 /home/robert/qmk_firmware_kleemann/keyboards/evyd13/atom47/rev5
+
+staggered
+
 /home/robert/qmk_firmware_kleemann/keyboards/ez_maker/directpins/teensy_2pp
+
+super crazy controller tester
+
 /home/robert/qmk_firmware_kleemann/keyboards/handwired/dactyl_manuform/4x5
 /home/robert/qmk_firmware_kleemann/keyboards/handwired/dactyl_manuform/4x6
 /home/robert/qmk_firmware_kleemann/keyboards/handwired/dactyl_manuform/4x6_5
+
+no need to look
+
 /home/robert/qmk_firmware_kleemann/keyboards/kingly_keys/ave/ortho
 /home/robert/qmk_firmware_kleemann/keyboards/kingly_keys/ave/staggered
+
+awesome retro battle station look
+
 /home/robert/qmk_firmware_kleemann/keyboards/montsinger/rebound/rev1
 /home/robert/qmk_firmware_kleemann/keyboards/montsinger/rebound/rev2
 /home/robert/qmk_firmware_kleemann/keyboards/montsinger/rebound/rev3
 /home/robert/qmk_firmware_kleemann/keyboards/montsinger/rebound/rev4
+
+split ergo
+
 /home/robert/qmk_firmware_kleemann/keyboards/rgbkb/zygomorph/rev1
+
+split
+
 /home/robert/qmk_firmware_kleemann/keyboards/spaceman/pancake/rev1
 /home/robert/qmk_firmware_kleemann/keyboards/spaceman/pancake/rev2
+
+one time group buy
+
+https://mkultra.click/group-buy-pancake-keyboard-kit
+
 /home/robert/qmk_firmware_kleemann/keyboards/ymdk/ymd40/v2
+
+full leds. not much info on the site. I can't tell if it's solder or hotswap.
 
 ## Accepted
 
@@ -605,7 +726,7 @@ build discussion.
 
 https://keeb.io/products/jnao-5x12-and-4x12-ortholinear-pcb
 
-stange optional fifth row. doesn't look exceptional bit it's a candidate
+stange optional fifth row. doesn't look exceptional but it's a candidate
 
 /home/robert/qmk_firmware_kleemann/keyboards/naked48
 
@@ -613,7 +734,7 @@ Very interesting keyboard with an open middle. It may only be available in Japan
 
 /home/robert/qmk_firmware_kleemann/keyboards/niu_mini
 
-Nice keep but out of stock.
+Nice but out of stock.
 
 /home/robert/qmk_firmware_kleemann/keyboards/planck
 
@@ -637,4 +758,3 @@ super cool
 
 super cool like plaid. Even better it supports a separate controller
 card. It doesn't appear you can buy the PCB.
-
