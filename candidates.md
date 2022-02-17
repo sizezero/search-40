@@ -699,22 +699,22 @@ full leds. not much info on the site. I can't tell if it's solder or hotswap.
 
 ## Accepted
 
-/home/robert/qmk_firmware_kleemann/keyboards/contra
+### /home/robert/qmk_firmware_kleemann/keyboards/contra
 
 yea, cheapo 40%
 
-/home/robert/qmk_firmware_kleemann/keyboards/crbn
+### /home/robert/qmk_firmware_kleemann/keyboards/crbn
 
 Looks a lot like contra.
 
 I can't find the hardware anywhere. I think it was a one time group buy.
 
-/home/robert/qmk_firmware_kleemann/keyboards/funky40
+### /home/robert/qmk_firmware_kleemann/keyboards/funky40
 
 Two, 2u spacebars. It's kind of interesting. For hardware, guy says to
 ping him on Reddit.
 
-/home/robert/qmk_firmware_kleemann/keyboards/horizon
+### /home/robert/qmk_firmware_kleemann/keyboards/horizon
 
 This one is 2u wider but has a dedicated space in the middle for the
 controller. This allows the controller to be soldered directly onto
@@ -722,39 +722,108 @@ the PCB. The profile looks very flat but some of that is the switches
 and caps. I could put a giant 2u by 2u button in the middle. Lots of
 build discussion.
 
-/home/robert/qmk_firmware_kleemann/keyboards/jnao
+This is a really cool possibility for a board. I like that I can have
+the microcontroller above the PCB and reduce the space beneath. I
+wonder if the sound/tactile feeling of these caseless boards is always
+a thing?
+
+The page has really good hardware details and he even recommends a PCB
+manufacturer.
+
+https://github.com/qmk/qmk_firmware/tree/master/keyboards/horizon
+
+https://github.com/skarrmann/horizon
+
+https://jlcpcb.com/
+
+### /home/robert/qmk_firmware_kleemann/keyboards/jnao
 
 https://keeb.io/products/jnao-5x12-and-4x12-ortholinear-pcb
 
 stange optional fifth row. doesn't look exceptional but it's a candidate
 
-/home/robert/qmk_firmware_kleemann/keyboards/naked48
+### /home/robert/qmk_firmware_kleemann/keyboards/naked48
 
-Very interesting keyboard with an open middle. It may only be available in Japan.
+Very interesting keyboard with an open middle. It may only be
+available in Japan. Missing the lower right corner keys is not good
+for gaming or mouse shifting but I could probably live with it. Since
+everything is in Japanese I'd probably have an easier time with the
+horizon. Even if it wasn't for the language, the horizon PCB is much
+better documented. There are also only pictures of this one as a low
+profile so that could be an issue.
 
-/home/robert/qmk_firmware_kleemann/keyboards/niu_mini
+https://github.com/qmk/qmk_firmware/tree/master/keyboards/naked48
+
+https://github.com/Salicylic-acid3/PCB_Data
+
+https://salicylic-acid3.booth.pm/items/1271568
+
+### /home/robert/qmk_firmware_kleemann/keyboards/niu_mini
 
 Nice but out of stock.
 
-/home/robert/qmk_firmware_kleemann/keyboards/planck
+### /home/robert/qmk_firmware_kleemann/keyboards/planck
 
-It's not much different than what I already have but it would probably give me a better selection of cases.
+It's not much different than what I already have but it would probably
+give me a better selection of cases. Both OLKB and Planck EZ use hot
+swap switches which makes this a non-starter for me. Controller on the
+PCB is a neg as well.
 
-/home/robert/qmk_firmware_kleemann/keyboards/splitish
+https://olkb.com/products/planck-pcb
+
+https://ergodox-ez.com/pages/planck
+
+### /home/robert/qmk_firmware_kleemann/keyboards/splitish
 
 very cool with open middle for easily socketed controller
 
-/home/robert/qmk_firmware_kleemann/keyboards/checkerboards/quark_lp
+Not as sleek as horizon but in the ballpark. Designed for low profile
+so I'd have to make sure I'd want those. He says v1 of the PCB is "far
+from perfect" and v2 "exists, but I haven't had it fabricated
+though. Should still work." Maybe he's telling a noob like me to stay
+away. The board doesn't have the aesthetics of the others.
 
-claims low profile compatible
+https://github.com/qmk/qmk_firmware/tree/master/keyboards/splitish
+
+https://github.com/RSchneyer/splitish/tree/master/gerbers
+
+https://github.com/RSchneyer/splitish
+
+### /home/robert/qmk_firmware_kleemann/keyboards/checkerboards/quark_lp
+
+claims low profile compatible. neg: controller is on the PCB
+
+https://github.com/qmk/qmk_firmware/tree/master/keyboards/checkerboards/quark_lp
 
 https://www.checkerboards.xyz/
 
-/home/robert/qmk_firmware_kleemann/keyboards/dm9records/plaid
+### /home/robert/qmk_firmware_kleemann/keyboards/dm9records/plaid
 
-super cool
+super cool. Having to solder the usb connector onto the pcb might be a
+dealbreaker. Build guides are great. The hardware is available. Lots
+of strange shit has to be soldered onto the PCB.
 
-/home/robert/qmk_firmware_kleemann/keyboards/mlego/m48
+https://github.com/qmk/qmk_firmware/tree/master/keyboards/dm9records/plaid
+
+https://5z6p.com/products/plaid-through-hole/
+
+https://5z6p.com/products/plaid-through-hole/
+
+### /home/robert/qmk_firmware_kleemann/keyboards/mlego/m48
 
 super cool like plaid. Even better it supports a separate controller
 card. It doesn't appear you can buy the PCB.
+
+There are 5x12, 4x12, and other options. It looks like it just uses
+legos to lift the PCB. From a technical perspective, if I can get the
+PCB, everything looks doable. But do I want a keyboard like this?
+
+https://github.com/qmk/qmk_firmware/tree/master/keyboards/mlego/m48
+
+## Requirements
+
+TODO
+
+## Plan
+
+TODO
