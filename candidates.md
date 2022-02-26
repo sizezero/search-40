@@ -820,9 +820,65 @@ PCB, everything looks doable. But do I want a keyboard like this?
 
 https://github.com/qmk/qmk_firmware/tree/master/keyboards/mlego/m48
 
-## Requirements
+## Log
 
-TODO
+### 2022-02-26
+
+I've been using the keyboard solidly for a month, mostly on the
+desktop and less on the writing tablet. There is no doubt that the
+feel is worse than my favorite DZ60 but there are so many differences
+between the two keyboards that it's not possible to pinpoint the
+cause. I've also started to get some neck pain that may or may not be
+due to the keyboard. If it's caused by the keyboard it could either be
+caused by the more forceful presses needed by the cherry clear
+switches or it could be the ergonomics of the 40% that requires my
+elbows to be held in tighter. Of course, it could be how I sleep or
+something completely unrelated.
+
+I picked up a switch tester. Here's some interesting points.
+
+- Compared with the other switches, the cherry clears and browns feel
+  practically identical. I think the problem is that pressing one
+  switch in isolation is very differnt than using a whole keyboard of
+  switches for an extended period of time. There's only so much I can
+  learn from a switch tester.
+
+- Tactiles and linears are difficult to tell the difference between
+  unless you press the switch very slowly to feel that bump. It is
+  probably only noticable with extended typing.
+
+- I am no longer drawn to any of the clickies. I'm glad that I never
+  experimented with greens.
+
+- Zealios are very different with a very strong initial bump but
+  smooth afterwards. I don't think I'd like a whole keyboard of these
+  but they are interesting and much different than most switches.
+
+- Gateron browns actually have a lighter feel than the cherries. I
+  wonder if they are worth giving a try.
+
+- Silents feel mushy. Novelkeys creme is super mushy.
+
+- Kailith box prevents some wobble but not much on this
+  keyboard. Maybe it would be more noticeable on an entire keyboard
+
+- I think I definitely want a lighter switch on a 40%. This means red
+  over blacks, browns over clears, and blues over greeens.
+
+- The linears are very tempting. I wonder if I should try a red, lubed
+  linear. It would be easiest if I could borrow one just in case I
+  hate it.
+
+- Gateron yellow feels smoother and has a deeper sound than the red
+  but according to the spec, the only difference is 50g actuation vs
+  45g. This means the reds should feel smoother.
+
+I've been looking at mods I can do to improve the keyboard and the
+easiest is adding tape to the back of the PCB and foam between the PCB
+and the back plate. I just did this and did not notice an immediate
+sound or vibration difference. I'll keep using it over the next few
+days and see if there's a difference. I can probably fit an extra
+piece of foam in there if I think it will help.
 
 ## Plan
 
