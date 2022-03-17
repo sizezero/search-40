@@ -1,6 +1,8 @@
 #!/usr/bin/env amm
 
-import ammonite.ops._
+// developer says this is deprecated. use os._ instead
+
+//import ammonite.ops._
 
 // the format of this json file contains a layout array. This array
 // determines the number of keys in the keyboard. Around 48 keys is the
@@ -31,14 +33,15 @@ def keyboardDirIsFortyPercent(jsonFile: os.Path): Boolean = {
 
 // recursively get all files and dirs under a path
 // this is the only use of ammonite.ops which makes things more unixy
-val filesAndDirs = ls.rec! os.home / "qmk_firmware_kleemann" / "keyboards"
+//val filesAndDirs = ls.rec! os.home / "qmk_firmware_kleemann" / "keyboards"
+val filesAndDirs = os.walk( os.home / "qmk_firmware_kleemann" / "keyboards" )
 
 // prune list to dirs that may have 40% keyboards
 val good =
 filesAndDirs
-.filter{ _.isDir }
+.filter{ os.isDir(_) }
 .map{ d => (d, d / "info.json") }
-.filter{ case (d,f) => f.toIO.isFile }
+.filter{ case (d,f) => os.isFile(f) }
 .flatMap {
   case (d,f) =>
     if (keyboardDirIsFortyPercent(f)) List(d)
